@@ -1,1 +1,3 @@
-ls
+docker images: list toàn bộ các images
+chay mot docker : sudo service docker start
+sudo docker-compose up
